@@ -4,15 +4,15 @@ The Question: Does using AI tools more often help or hurt students academically 
 # Key Findings
 1. GPA gains peak at moderate AI use — not heavy use.
 Students using AI 10–20 hours/week saw the highest GPA improvement (+0.22), while heavy users (20+ hours/week) saw smaller gains (+0.16) than even light users.
-![GPA Change by AI Usage](GPA_Change_by_ai_usage (1).png)
+![GPA Change by AI Usage](GPA_Change_by_ai_usage%20(1).png)
 
 2. Exam anxiety rises steadily with AI usage.
 Average anxiety climbs from 3.8 (very low use) to 5.6 (high use).
-![Anxiety by AI Usage](Anxiety_by_ai_usage (2).png)
+![Anxiety by AI Usage](Anxiety_by_ai_usage%20(2).png)
 
 3. Burnout risk explodes at high usage.
 Only 9% of light AI users are high burnout risk — but 74% of heavy users are.
-![Burnout Risk by AI Usage](burnout_by_ai_usage (1).png)
+![Burnout Risk by AI Usage](burnout_by_ai_usage%20(1).png)
 
 # What This Means
 Moderate AI use appears to be a "sweet spot" - students get academic benefit without the emotional cost. Heavy AI use trades further GPA gains for a sharp rise in anxiety and burnout.
